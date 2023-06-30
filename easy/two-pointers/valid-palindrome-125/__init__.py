@@ -29,7 +29,9 @@ class Solution(object):
 
 
 def main():
-    assert Solution.isPalindrome(Solution(), "A man, a plan, a canal: Panama") == True
+    assert Solution().isPalindrome("aba") == True
+    assert Solution().isPalindrome("abb") == False
+    assert Solution().isPalindrome("A man, a plan, a canal: Panama") == True
 
 
 if __name__ == "__main__":

@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7e5548a-1494-406e-afe7-0565bb5dacd1" name="Changes" comment="Tasks #242 solved." />
+    <list default="true" id="f7e5548a-1494-406e-afe7-0565bb5dacd1" name="Changes" comment="Tasks #28 solved.">
+      <change afterPath="$PROJECT_DIR$/easy/string-and-array/find-index-first-occurrence-in-string-28/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/string-and-array/merge-sorted-array-88/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/string/length-of-last-word-58/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/string-and-array/length-of-last-word-58/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/string/valid-anagram-242/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/string-and-array/valid-anagram-242/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stats.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688330273896</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tasks #242 solved.">
+      <created>1688330790709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688330790709</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

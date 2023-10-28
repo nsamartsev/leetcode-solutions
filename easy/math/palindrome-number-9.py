@@ -1,5 +1,5 @@
 class Solution:
-    def isPalindrome(self, x: int) -> bool:
+    def isPalindrome(x: int) -> bool:
         if x >= 0:
             xstr = str(x)
             xstr_len = len(xstr)
@@ -12,10 +12,5 @@ class Solution:
         return False
 
 
-def main():
-    assert Solution.isPalindrome(Solution(), 131) == True
-    assert Solution.isPalindrome(Solution(), 122) == False
-
-
-if __name__ == "__main__":
-    main()
+assert Solution.isPalindrome(131) == True
+assert Solution.isPalindrome(122) == False

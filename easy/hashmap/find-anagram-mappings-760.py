@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/find-anagram-mappings/
-
 class Solution:
     @staticmethod
     def find_mapping(self, nums1, nums2):
